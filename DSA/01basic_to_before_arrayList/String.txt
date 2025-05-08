@@ -1,0 +1,24 @@
+-->String method
+-->String Access Methods.
+
+1.length()-find the length
+2.charAt()-allows the individual characters of a string to be accessed.
+3.substring()-which allows substrings of a string to be accessed; 
+4.valueOf()-which enables primitive data types to be converted into strings.
+5.toString()-method for converting other objects to String objects.
+
+
+-->Character and Substring Methods.
+1.These include charAt(), getBytes(), getChars(), indexOf(), lastIndexOf(), and substring().
+
+
+-->String Comparison and Test Methods
+1.Some of these methods are compareTo(), endsWith(), equals(), equalsIgnoreCase(), regionMatches(), and startsWith().
+
+
+-->Copy, Concatenation, and Replace Methods.
+1.concat(), copyValueOf(), replace(), and trim().
+
+
+-->String Conversion and Generation.
+1.These are intern(), toCharArray(), toLowerCase(), toString(), toUpperCase(), and valueOf().
